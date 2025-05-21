@@ -1,7 +1,7 @@
 -  Hi, I’m @ErismarSant
 -  I’m interested in  aprender programação 
 -  I’m currently learning  pyhton 
--  I’m looking to collaborate on  compartilhar meus novos conhecimentos
+-  I’m looking to collaborate on sharing my new knowledge
 -  currently studying information security
 -  I'm learning Linux, doing tests, setting up servers.
 <!---
